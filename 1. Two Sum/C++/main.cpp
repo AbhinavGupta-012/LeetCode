@@ -99,6 +99,7 @@ int main(){
                 cout << result[i] << (i + 1 < result.size() ? "," : "");
             }
             cout << "]" << endl;
+            return 1;
         }
     }
 
