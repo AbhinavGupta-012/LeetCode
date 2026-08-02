@@ -6,3 +6,5 @@ Code Warehouse for all of my LeetCode Solutions
 2. [4006 Count Valid Prefixes](/4006%20Count%20Valid%20Prefixes) on 1st Aug 2026 in Java. Time - 1 ms and Memory - 43.68 MB
 
 3. [877 Stone Game](/877%20Stone&20Game) on 2nd Aug 2026 in Java. Time - 10 ms and Memory - 49.8 MB
+
+4. [4010 Maximize Pair Strength Using GCD](/4010%20Maximize%20Pair%20Strength%20Using%20GCD) on 2nd Aug 2026 in Java. Time - 947 ms and Memory - 46.8 MB
