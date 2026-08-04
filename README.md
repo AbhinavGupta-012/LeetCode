@@ -12,3 +12,5 @@ Code Warehouse for all of my LeetCode Solutions
 5. [4011 Count Subarrays With Even Odd Ratio I](/4011%20Count%20Subarrays%20With%20Even%20Odd%20Ratio%20I) on 2nd Aug 2026 in Java. Time - 43 ms and Memory - 46 MB
 
 6. [1406 Stone Game III](/1406%20Stone%20Game%20III) on 3rd Aug 2026 in Java. Time - 45 ms and Memory - 94.64 MB
+
+7. [3731 Find Missing Elements](/3731%20Find%20Missing%20Elements) on 4th Aug 2026 in Java. Time - 1 ms and Memmory 46.6 MB
