@@ -14,3 +14,5 @@ Code Warehouse for all of my LeetCode Solutions
 6. [1406 Stone Game III](/1406%20Stone%20Game%20III) on 3rd Aug 2026 in Java. Time - 45 ms and Memory - 94.64 MB
 
 7. [3731 Find Missing Elements](/3731%20Find%20Missing%20Elements) on 4th Aug 2026 in Java. Time - 1 ms and Memmory 46.6 MB
+
+8. [3310 Remove Methods From Project](/3310%20Remove%20Methods%20From%20Project) on 5th Aug 2026 in Java. Time - 418 ms and Memory 286.1 MB
