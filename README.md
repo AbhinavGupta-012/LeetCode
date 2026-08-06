@@ -16,3 +16,5 @@ Code Warehouse for all of my LeetCode Solutions
 7. [3731 Find Missing Elements](/3731%20Find%20Missing%20Elements) on 4th Aug 2026 in Java. Time - 1 ms and Memmory 46.6 MB
 
 8. [3310 Remove Methods From Project](/3310%20Remove%20Methods%20From%20Project) on 5th Aug 2026 in Java. Time - 418 ms and Memory 286.1 MB
+
+9. [3345 Smallest Divisible Digit Product I](/3345%20Smallest%20Divisible%20Digit%20Product%20I) on 6th Aug 2026 in Java. Time - 1 ms and Memory 42.1 MB
