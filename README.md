@@ -18,3 +18,5 @@ Code Warehouse for all of my LeetCode Solutions
 8. [3310 Remove Methods From Project](/3310%20Remove%20Methods%20From%20Project) on 5th Aug 2026 in Java. Time - 418 ms and Memory 286.1 MB
 
 9. [3345 Smallest Divisible Digit Product I](/3345%20Smallest%20Divisible%20Digit%20Product%20I) on 6th Aug 2026 in Java. Time - 1 ms and Memory 42.1 MB
+
+10. [2073 Time Needed to Buy Tickets](/2073%20Time%20Needed%20to%20Buy%20Tickets) on 7th Aug 2026 in Java. Time - 2 ms and Memory 43.2 MB
