@@ -26,3 +26,5 @@ Code Warehouse for all of my LeetCode Solutions
 12. [4015 Weight Sum of a Tree](/4015%20Weight%20Sum%20of%20a%20Tree) on 9th Aug 2026 in Java. Time - 80 ms and Memory 208.90 MB
 
 13. [1754 Largest Merge Of Two Strings](/1754%20Largest%20Merge%20Of%20Two%20Strings) on 10th Aug 2026 in Java. Time - 93 ms and Memory 47.03 MB
+
+14. [2996 Smallest Missing Integer Greater Than Sequential Prefix Sum](/2996%20Smallest%20Missing%20Integer%20Greater%20Than%20Sequential%20Prefix%20Sum) on 11th Aug 2026 in Java. Time - 2 ms and Memory 44.2 MB
