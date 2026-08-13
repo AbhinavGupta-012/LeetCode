@@ -30,3 +30,5 @@ Code Warehouse for all of my LeetCode Solutions
 14. [2996 Smallest Missing Integer Greater Than Sequential Prefix Sum](/2996%20Smallest%20Missing%20Integer%20Greater%20Than%20Sequential%20Prefix%20Sum) on 11th Aug 2026 in Java. Time - 2 ms and Memory 44.2 MB
 
 15. [2958 Length of Longest Subarray With at Most K Frequency](/2958%20Length%20of%20Longest%20Subarray%20With%20at%20Most%20K%20Frequency) on 12th Aug 2026 in Java. Time - 76 ms and Memory 88.4 MB
+
+16. [2227 Encrypt and Decrypt Strings](/2227%20Encrypt%20and%20Decrypt%20Strings) on 13th Aug 2026 in Java. Time - 106 ms and Memory 54 MB
