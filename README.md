@@ -34,3 +34,5 @@ Code Warehouse for all of my LeetCode Solutions
 16. [2227 Encrypt and Decrypt Strings](/2227%20Encrypt%20and%20Decrypt%20Strings) on 13th Aug 2026 in Java. Time - 106 ms and Memory 54 MB
 
 17. [3090 Maximum Length Substring With Two Occurrences](/3090%20Maximum%20Length%20Substring%20With%20Two%20Occurrence%20) on 14th Aug 2026 in Java. Time - 35 ms and Memory 46.9 MB
+
+18. [3850 Count Sequences to K](/3850%20Count%20Sequences%20to%20K) on 15th Aug 2026 in Java. Time - 295 ms and Memory 51.46 MB
