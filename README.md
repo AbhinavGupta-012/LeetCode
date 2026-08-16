@@ -38,3 +38,5 @@ Code Warehouse for all of my LeetCode Solutions
 18. [3850 Count Sequences to K](/3850%20Count%20Sequences%20to%20K) on 15th Aug 2026 in Java. Time - 295 ms and Memory 51.46 MB
 
 19. [3206 Alternating Groups I](/3206%20Alternating%20Groups%20I) on 16th Aug 2026 in Java. Time - 0 ms and Memory 44.4 MB
+
+20. [4020 Elevator Requests I](/4020%20Elevator%20Requests%20I) on 16th Aug 2026 in Java. Time - 1 ms and Memory 44.8 MB
