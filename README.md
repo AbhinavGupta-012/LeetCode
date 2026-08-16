@@ -36,3 +36,5 @@ Code Warehouse for all of my LeetCode Solutions
 17. [3090 Maximum Length Substring With Two Occurrences](/3090%20Maximum%20Length%20Substring%20With%20Two%20Occurrence%20) on 14th Aug 2026 in Java. Time - 35 ms and Memory 46.9 MB
 
 18. [3850 Count Sequences to K](/3850%20Count%20Sequences%20to%20K) on 15th Aug 2026 in Java. Time - 295 ms and Memory 51.46 MB
+
+19. [3206 Alternating Groups I](/3206%20Alternating%20Groups%20I) on 16th Aug 2026 in Java. Time - 0 ms and Memory 44.4 MB
