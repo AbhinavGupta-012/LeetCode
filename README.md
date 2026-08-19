@@ -44,3 +44,5 @@ Code Warehouse for all of my LeetCode Solutions
 21. [2874 Maximum Value of an Ordered Triplet II](/2874%20Maximum%20Value%20of%20an%20Ordered%20Triplet%20II) on 17th Aug 2026 in Java. Time - 800 ms and Memory - 142.6 MB
 
 22. [3471 Find the Largest Almost Missing Integer](/3471%20Find%20the%20Largest%20Almost%20Missing%20Integer) on 18th Aug 2026 in Java. Time - 10 ms and Memory - 46.1 MB
+
+23. [1386 Cinema Seat Allocation](/1386%20Cinema%20Seat%20Allocation) on 19th Aug 2026 in Java. Time - 48 ms and Memory - 57.8 MB
