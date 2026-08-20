@@ -46,3 +46,5 @@ Code Warehouse for all of my LeetCode Solutions
 22. [3471 Find the Largest Almost Missing Integer](/3471%20Find%20the%20Largest%20Almost%20Missing%20Integer) on 18th Aug 2026 in Java. Time - 10 ms and Memory - 46.1 MB
 
 23. [1386 Cinema Seat Allocation](/1386%20Cinema%20Seat%20Allocation) on 19th Aug 2026 in Java. Time - 48 ms and Memory - 57.8 MB
+
+24. [3069 Distribute Elements Into Two Arrays I](3069%20Distribute%20Elements%20Into%20Two%20Arrays%20I) on 20th Aug 2026 in Java. Time - 1 ms and Memory 46.4 MB
