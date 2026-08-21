@@ -47,4 +47,6 @@ Code Warehouse for all of my LeetCode Solutions
 
 23. [1386 Cinema Seat Allocation](/1386%20Cinema%20Seat%20Allocation) on 19th Aug 2026 in Java. Time - 48 ms and Memory - 57.8 MB
 
-24. [3069 Distribute Elements Into Two Arrays I](3069%20Distribute%20Elements%20Into%20Two%20Arrays%20I) on 20th Aug 2026 in Java. Time - 1 ms and Memory 46.4 MB
+24. [3069 Distribute Elements Into Two Arrays I](3069%20Distribute%20Elements%20Into%20Two%20Arrays%20I) on 20th Aug 2026 in Java. Time - 1 ms and Memory - 46.4 MB
+
+25. [650 2 Keys Keyboard](/650%202%20Keys%20Keyboard) on 21st Aug 2026 in Java. Time - 19 ms and Memory - 69.99 MB
